@@ -1,0 +1,26 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "This CPM-style blog allows for user login utilizing Sequelize, Handlebars.js, and express-session npm package.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panicor/techBlog.git"
+  },
+  "keywords": [
+    "Sequelize",
+    "blog",
+    "express-session",
+    "Handlebars.js"
+  ],
+  "author": "Rachel Panico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panicor/techBlog/issues"
+  },
+  "homepage": "https://github.com/panicor/techBlog#readme"
+}
